@@ -17,4 +17,11 @@
 * Milk
 * Bread
     * Wholegrain
+        * Sliced    
 * Butter
+
+1. Tidy the kitchen
+2. Prepare ingredients
+3. Cook delicious things
+
+> To be or not to be, that is the question.
